@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-western-garage-doors-ca.dream-surge.com/sitemap-index.xml

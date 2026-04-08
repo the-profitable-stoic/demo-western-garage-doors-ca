@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Western Garage Doors CA",
+    "phone": "+12799728985",
+    "category": "garage door installer",
+    "city": "Sacramento",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Sacramento's Garage Door Experts",
+      "heroSubline": "Reliable garage door installation and repair services in Sacramento and surrounding areas. Quality workmanship, guaranteed satisfaction.",
+      "aboutTitle": "Your Trusted Sacramento Garage Door Partner",
+      "aboutText": [
+        "Western Garage Doors CA started with a simple goal: to provide Sacramento homeowners with reliable, high-quality garage door services. We're a local team, born and raised in the Central Valley, and we understand the unique challenges our climate presents to garage door systems.",
+        "Our approach is straightforward: honest assessments, clear communication, and durable solutions. We don't cut corners. We use quality parts and proven techniques to ensure your garage door operates smoothly and reliably for years to come. We stand behind our work, plain and simple.",
+        "We're committed to serving the Sacramento community. From Midtown bungalows to Elk Grove family homes, we treat every project with the same level of care and attention. We’re proud to keep your homes safe and secure."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team has years of experience working on all types of garage doors in the Sacramento area."
+        },
+        {
+          "title": "Fast & Reliable Service",
+          "description": "We understand the urgency of a broken garage door and offer prompt, dependable service."
+        },
+        {
+          "title": "Fair & Transparent Pricing",
+          "description": "We provide honest assessments and upfront pricing with no hidden fees."
+        },
+        {
+          "title": "Quality Parts & Workmanship",
+          "description": "We use only durable, high-quality parts and stand behind our work with a satisfaction guarantee."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Quote Today!",
+      "ctaSubline": "Contact us now for a fast and accurate estimate on your garage door needs."
+    },
+    "services": [
+      {
+        "slug": "garage-door-installation",
+        "name": "Garage Door Installation",
+        "shortDescription": "Expert garage door installation for Sacramento homes, tailored to your style and needs.",
+        "description": "Choosing the right garage door is a significant decision for Sacramento homeowners. We offer a wide selection of styles, materials, and colors to complement your home's architecture, from classic raised-panel doors perfect for East Sacramento bungalows to modern flush designs ideal for Natomas new builds. Our installation process is meticulous. We start with a thorough assessment of your garage opening, ensuring proper measurements and alignment. We handle all aspects of the installation, including removing your old door, installing the new door and opener, and ensuring smooth, quiet operation. We also pay close attention to weatherstripping and insulation, crucial for Sacramento's hot summers and occasional winter flooding. We're experienced in working with the clay soil conditions common in the area, taking extra precautions to prevent future issues. We ensure your new garage door is not only beautiful but also durable and reliable for years to come. Our team will walk you through the operation and maintenance of your new door, ensuring you are completely satisfied with the installation.",
+        "process": [
+          "Initial Consultation & Selection",
+          "Precise Measurement & Preparation",
+          "Professional Installation & Alignment",
+          "Thorough Testing & Quality Check"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Home Value",
+          "Improved Security",
+          "Energy Efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does garage door installation take?",
+            "answer": "Typically, a standard garage door installation takes between 4-6 hours, depending on the complexity of the project and any necessary modifications to the opening."
+          },
+          {
+            "question": "What types of garage doors do you install?",
+            "answer": "We install a wide range of garage doors, including sectional doors, roll-up doors, carriage house doors, and custom-designed doors in various materials like steel, wood, aluminum, and composite."
+          },
+          {
+            "question": "Do you offer a warranty on your installation services?",
+            "answer": "Yes, we offer a comprehensive warranty on our installation services, covering both the labor and the materials used. Specific warranty details will be provided with your quote."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-repair",
+        "name": "Garage Door Repair",
+        "shortDescription": "Fast, reliable garage door repair services in Sacramento, fixing any issue quickly and efficiently.",
+        "description": "A malfunctioning garage door can be a major inconvenience and a security risk. We provide prompt and reliable garage door repair services throughout Sacramento, addressing a wide range of issues, from broken springs and cables to malfunctioning openers and damaged panels. Sacramento's climate can be hard on garage doors. The intense summer heat can cause parts to expand and contract, leading to premature wear and tear. We're experienced in diagnosing and repairing these climate-related problems. Our technicians arrive equipped with the necessary tools and parts to get your door back in working order quickly. We prioritize safety and ensure all repairs are performed to the highest standards. We also offer preventative maintenance services to help extend the life of your garage door and prevent future problems. Whether you're dealing with a noisy opener, a misaligned track, or a broken spring, we're here to provide expert repair services you can count on. We understand the urgency of garage door repairs and offer flexible scheduling to accommodate your needs.",
+        "process": [
+          "Comprehensive Inspection & Diagnosis",
+          "Transparent Explanation of Issues",
+          "Efficient Repair or Replacement",
+          "Thorough Testing & Optimization"
+        ],
+        "benefits": [
+          "Improved Security",
+          "Enhanced Safety",
+          "Reduced Noise",
+          "Extended Door Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a repair request?",
+            "answer": "We offer same-day or next-day repair services in most cases. Call us, and we'll do our best to schedule a technician to your location as soon as possible."
+          },
+          {
+            "question": "What are the most common garage door problems you fix?",
+            "answer": "Common issues include broken springs, damaged cables, malfunctioning openers, bent tracks, and damaged panels. We handle all types of garage door repairs."
+          },
+          {
+            "question": "Do you offer emergency repair services?",
+            "answer": "Yes, we offer emergency repair services for urgent situations. Contact us anytime, and we'll dispatch a technician to your location as quickly as possible."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair-installation",
+        "name": "Garage Door Opener Repair & Installation",
+        "shortDescription": "Upgrade or repair your garage door opener with our expert services in Sacramento.",
+        "description": "A reliable garage door opener is essential for convenient and secure access to your garage. We offer comprehensive garage door opener repair and installation services in Sacramento. Whether you need a simple repair or a complete replacement, we have the expertise to get the job done right. We work with all major brands of garage door openers, including Chamberlain, LiftMaster, Genie, and more. We can diagnose and repair a wide range of issues, from faulty sensors and broken remotes to motor problems and gear failures. Sacramento's older homes often have outdated or unreliable garage door openers. We can help you upgrade to a new opener with advanced features like smartphone control, battery backup, and enhanced security. We ensure proper installation and programming of your new opener. Our team can also advise you on the best type of opener for your specific needs and budget. We understand the importance of a properly functioning garage door opener and strive to provide prompt, reliable service.",
+        "process": [
+          "Opener Inspection & Diagnosis",
+          "Repair or Replacement Recommendation",
+          "Professional Installation & Programming",
+          "Safety Sensor Testing & Adjustment"
+        ],
+        "benefits": [
+          "Increased Convenience",
+          "Enhanced Security",
+          "Reliable Performance",
+          "Modern Features"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door opener needs to be replaced?",
+            "answer": "Common signs include frequent malfunctions, loud noises, slow operation, and failure to respond to the remote. If your opener is more than 10 years old, it may be time to consider a replacement."
+          },
+          {
+            "question": "What are the benefits of upgrading to a new garage door opener?",
+            "answer": "Newer openers offer enhanced security features, smartphone control, battery backup, and quieter operation. They also tend to be more reliable and energy-efficient."
+          },
+          {
+            "question": "Can you program my existing remotes to work with a new opener?",
+            "answer": "Yes, we can program most existing remotes to work with your new opener. We can also provide new remotes if needed."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-spring-replacement",
+        "name": "Garage Door Spring Replacement",
+        "shortDescription": "Safe and efficient garage door spring replacement services in Sacramento.",
+        "description": "Garage door springs are under immense tension and can be dangerous to handle without the proper tools and expertise. We offer professional garage door spring replacement services in Sacramento, ensuring the safety and proper functioning of your garage door. Sacramento's fluctuating temperatures can cause springs to weaken and break over time. We use only high-quality springs designed to withstand the rigors of daily use and the local climate. Our technicians are trained to safely remove and replace broken springs, ensuring proper balance and alignment of your garage door. We offer both torsion spring and extension spring replacement services. We understand the urgency of a broken garage door spring and strive to provide prompt service to get your door back in working order quickly. We prioritize safety and ensure all spring replacements are performed to the highest standards. Don't attempt to replace garage door springs yourself – contact us for safe and reliable service.",
+        "process": [
+          "Safety Assessment & Preparation",
+          "Removal of Broken Spring",
+          "Installation of New Spring",
+          "Tension Adjustment & Balancing"
+        ],
+        "benefits": [
+          "Safe Operation",
+          "Proper Door Balance",
+          "Extended Door Lifespan",
+          "Reduced Risk of Further Damage"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Common signs include a loud snapping sound, a garage door that is difficult to lift, or a door that hangs unevenly."
+          },
+          {
+            "question": "How long do garage door springs typically last?",
+            "answer": "Garage door springs typically last between 7-12 years, depending on usage and maintenance. Regular lubrication can help extend their lifespan."
+          },
+          {
+            "question": "Why should I hire a professional to replace my garage door springs?",
+            "answer": "Garage door springs are under high tension and can be dangerous to handle. A professional has the tools and expertise to safely and properly replace them."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-replacement",
+        "name": "Garage Door Cable Replacement",
+        "shortDescription": "Expert garage door cable replacement to ensure smooth and safe operation in Sacramento.",
+        "description": "Garage door cables play a crucial role in lifting and lowering your garage door safely and smoothly. Damaged or broken cables can cause your door to become unbalanced or even collapse. We offer professional garage door cable replacement services in Sacramento, ensuring the proper functioning and safety of your garage door. We use only high-quality cables designed to withstand the weight and stress of your garage door. Our technicians are trained to safely remove and replace damaged cables, ensuring proper alignment and tension. We understand the importance of functioning cables, especially with the aging homes in Sacramento's Midtown and East Sacramento areas. We prioritize safety and ensure all cable replacements are performed to the highest standards. If you notice frayed, worn, or broken cables, contact us for prompt and reliable service. Do not attempt to repair or replace garage door cables yourself – contact us for safe and professional service.",
+        "process": [
+          "Safety Inspection & Preparation",
+          "Removal of Damaged Cable",
+          "Installation of New Cable",
+          "Tension Adjustment & Balancing"
+        ],
+        "benefits": [
+          "Safe Operation",
+          "Proper Door Balance",
+          "Smooth Door Movement",
+          "Prevent Further Damage"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of damaged garage door cables?",
+            "answer": "Common signs include frayed cables, visible breaks, or a garage door that is uneven or difficult to lift."
+          },
+          {
+            "question": "How often should garage door cables be inspected?",
+            "answer": "Garage door cables should be inspected at least twice a year for signs of wear and tear."
+          },
+          {
+            "question": "Can I replace garage door cables myself?",
+            "answer": "Due to the high tension involved, it's highly recommended to hire a professional to replace garage door cables safely and properly."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-maintenance",
+        "name": "Garage Door Maintenance",
+        "shortDescription": "Extend the life of your garage door with our comprehensive maintenance services in Sacramento.",
+        "description": "Regular garage door maintenance is essential for preventing costly repairs and extending the lifespan of your garage door. We offer comprehensive garage door maintenance services in Sacramento, designed to keep your door operating smoothly and safely. Our maintenance services include lubricating moving parts, tightening loose hardware, inspecting cables and springs, and testing safety features. We'll identify potential problems before they become major issues, saving you time and money in the long run. Sacramento's climate can be harsh on garage doors, with the hot summers and occasional flooding taking a toll. Our maintenance services are tailored to address these specific challenges. We recommend scheduling regular maintenance at least once a year to ensure optimal performance and longevity of your garage door. Our team provides honest assessments and clear communication, ensuring you understand the condition of your garage door and any recommended maintenance.",
+        "process": [
+          "Visual Inspection",
+          "Lubrication of Moving Parts",
+          "Tightening of Hardware",
+          "Safety Feature Testing"
+        ],
+        "benefits": [
+          "Extended Door Lifespan",
+          "Reduced Repair Costs",
+          "Improved Safety",
+          "Smooth Operation"
+        ],
+        "faq": [
+          {
+            "question": "How often should I schedule garage door maintenance?",
+            "answer": "We recommend scheduling garage door maintenance at least once a year."
+          },
+          {
+            "question": "What does garage door maintenance include?",
+            "answer": "Garage door maintenance includes lubricating moving parts, tightening loose hardware, inspecting cables and springs, and testing safety features."
+          },
+          {
+            "question": "Can I perform some garage door maintenance tasks myself?",
+            "answer": "Yes, you can lubricate moving parts and visually inspect the door for any obvious damage. However, more complex tasks should be left to a professional."
+          }
+        ]
+      },
+      {
+        "slug": "custom-garage-doors",
+        "name": "Custom Garage Doors",
+        "shortDescription": "Design the perfect custom garage door to complement your Sacramento home.",
+        "description": "Want a garage door that truly reflects your personal style and enhances your home's curb appeal? We offer custom garage door design and installation services in Sacramento. We work with you to create a unique garage door that perfectly complements your home's architecture and your individual taste. Choose from a wide range of materials, styles, colors, and finishes. Whether you're looking for a modern glass door for your Natomas home or a rustic wood door for your East Sacramento bungalow, we can bring your vision to life. Our team of experienced designers and installers will guide you through the entire process, from initial concept to final installation. We ensure precise measurements and meticulous attention to detail, guaranteeing a seamless and beautiful result. Sacramento homes are diverse, and we understand the need for personalized solutions. We prioritize quality and craftsmanship, using only the finest materials and proven techniques. Elevate your home's curb appeal with a custom garage door from Western Garage Doors CA.",
+        "process": [
+          "Initial Design Consultation",
+          "Material & Style Selection",
+          "Precise Measurement & Fabrication",
+          "Professional Installation"
+        ],
+        "benefits": [
+          "Unique Design",
+          "Enhanced Curb Appeal",
+          "Increased Home Value",
+          "Personalized Style"
+        ],
+        "faq": [
+          {
+            "question": "What materials can I choose for a custom garage door?",
+            "answer": "We offer a wide range of materials, including wood, steel, aluminum, glass, and composite."
+          },
+          {
+            "question": "How long does it take to design and install a custom garage door?",
+            "answer": "The timeline varies depending on the complexity of the design and the availability of materials. We'll provide you with a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "How much does a custom garage door cost?",
+            "answer": "The cost of a custom garage door depends on the materials, design, and installation requirements. We'll provide you with a detailed quote based on your specific needs."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Elk Grove",
+        "slug": "elk-grove-ca",
+        "state": "CA",
+        "content": "Western Garage Doors CA is proud to offer comprehensive garage door services to the growing community of Elk Grove. Known for its master-planned communities developed primarily from the 1990s through the 2020s, Elk Grove homes often feature modern garage door designs. We understand the specific needs of Elk Grove residents, from new installations to replacements and repairs. \n\nElk Grove's hot, dry summers, with temperatures frequently exceeding 100°F, can put a strain on garage door components. We offer durable, weather-resistant garage doors and expert maintenance services to ensure your garage door operates smoothly year-round. Our technicians are familiar with the common issues affecting garage doors in Elk Grove and are equipped to provide prompt and reliable solutions.",
+        "localContext": "As a newer, master-planned community, Elk Grove features many homes built in the last few decades, often with specific HOA requirements for garage door aesthetics. We are familiar with these requirements and can help you choose a garage door that meets both your needs and your HOA's guidelines.",
+        "nearbyAreas": [
+          "Sacramento",
+          "Laguna",
+          "Vineyard"
+        ]
+      },
+      {
+        "city": "Roseville",
+        "slug": "roseville-ca",
+        "state": "CA",
+        "content": "Western Garage Doors CA provides expert garage door services to the residents and businesses of Roseville. Known for its planned communities developed in the 1990s and 2000s, Roseville features a wide variety of home styles, each with unique garage door needs. We offer a full range of services, including new installations, repairs, and maintenance, to keep your garage door functioning optimally.\n\nThe hot, dry summers in Roseville can be harsh on garage door components, leading to wear and tear. We offer durable, weather-resistant garage doors and proactive maintenance services to help you avoid costly repairs. Our experienced technicians are familiar with the common issues affecting garage doors in Roseville and are committed to providing prompt and reliable service.",
+        "localContext": "Roseville’s prevalence of planned communities means many homes share similar architectural styles and garage door designs. We offer a variety of options to match your home's aesthetic while providing reliable performance and security.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Citrus Heights",
+          "Granite Bay"
+        ]
+      },
+      {
+        "city": "Folsom",
+        "slug": "folsom-ca",
+        "state": "CA",
+        "content": "Western Garage Doors CA is dedicated to providing the residents of Folsom with top-quality garage door services. Folsom, known for its newer planned communities, boasts a diverse range of homes, each with its own unique garage door requirements. We offer a comprehensive suite of services, including new installations, repairs, and routine maintenance, ensuring your garage door functions flawlessly.\n\nThe climate in Folsom, characterized by hot, dry summers with temperatures often exceeding 100°F, can significantly impact garage door performance. We offer robust, weather-resistant garage doors and proactive maintenance plans designed to prevent issues and extend the lifespan of your garage door. Our skilled technicians are well-versed in addressing the common challenges faced by garage doors in Folsom.",
+        "localContext": "Folsom's planned communities often have specific architectural styles and HOA guidelines regarding garage doors. We can assist you in selecting a garage door that complements your home's design while adhering to any community regulations.",
+        "nearbyAreas": [
+          "El Dorado Hills",
+          "Granite Bay",
+          "Orangevale"
+        ]
+      },
+      {
+        "city": "Sacramento",
+        "slug": "sacramento-ca",
+        "state": "CA",
+        "content": "Western Garage Doors CA is proud to serve the capital city of Sacramento with reliable and professional garage door services. From historic homes in midtown to modern residences in newer developments, Sacramento's diverse architecture presents a variety of garage door needs. We offer a full spectrum of services, including new installations, repairs, and maintenance, tailored to meet the unique requirements of Sacramento homeowners and businesses.\n\nSacramento's climate, with its hot, dry summers and mild, wet winters, can take a toll on garage doors. We provide durable, weather-resistant garage doors and expert maintenance services to ensure your garage door operates smoothly year-round. Our technicians are familiar with the common issues affecting garage doors in Sacramento and are equipped to provide prompt and effective solutions.",
+        "localContext": "Sacramento's diverse neighborhoods and architectural styles mean garage door needs vary significantly. We offer a wide range of styles and materials to match any home, from traditional to contemporary.",
+        "nearbyAreas": [
+          "West Sacramento",
+          "Citrus Heights",
+          "Elk Grove"
+        ]
+      },
+      {
+        "city": "Citrus Heights",
+        "slug": "citrus-heights-ca",
+        "state": "CA",
+        "content": "Western Garage Doors CA is your trusted provider for garage door services in Citrus Heights. We understand the specific needs of Citrus Heights residents, from single-family homes to larger properties. We provide comprehensive garage door services, including new installations, repairs, and maintenance, ensuring your garage door operates safely and reliably.\n\nThe hot summers in Citrus Heights can cause garage door components to expand and contract, leading to potential issues. We offer durable, weather-resistant garage doors and proactive maintenance services to help you avoid costly repairs. Our experienced technicians are familiar with the common problems affecting garage doors in Citrus Heights and are committed to providing prompt and professional service.",
+        "localContext": "Citrus Heights features a mix of established neighborhoods and newer developments, requiring a range of garage door styles and solutions. We offer a variety of options to suit any home and budget.",
+        "nearbyAreas": [
+          "Roseville",
+          "Orangevale",
+          "Fair Oaks"
+        ]
+      },
+      {
+        "city": "Rocklin",
+        "slug": "rocklin-ca",
+        "state": "CA",
+        "content": "Western Garage Doors CA is committed to providing top-notch garage door services to the residents of Rocklin. With its mix of established homes and newer constructions, Rocklin presents a diverse range of garage door needs. We offer a complete range of services, including new installations, repairs, and maintenance, to ensure your garage door is functioning at its best.\n\nThe hot summers and mild winters in Rocklin can impact garage door performance. We offer durable, weather-resistant garage doors and maintenance services to help protect your investment. Our skilled technicians are familiar with the common issues affecting garage doors in Rocklin and are dedicated to providing reliable and efficient service.",
+        "localContext": "Rocklin's growth has resulted in a blend of older and newer homes, each with varying garage door styles and requirements. We provide customized solutions to meet the specific needs of Rocklin homeowners.",
+        "nearbyAreas": [
+          "Roseville",
+          "Granite Bay",
+          "Lincoln"
+        ]
+      },
+      {
+        "city": "El Dorado Hills",
+        "slug": "el-dorado-hills-ca",
+        "state": "CA",
+        "content": "Western Garage Doors CA proudly serves the upscale community of El Dorado Hills with premium garage door services. Known for its beautiful homes and scenic views, El Dorado Hills demands high-quality garage doors that complement its architectural style. We offer a full suite of services including new installations, repairs, and maintenance, ensuring your garage door enhances your home's value and curb appeal.\n\nThe climate in El Dorado Hills, with its hot summers and cooler winters, can impact the longevity and performance of garage doors. We offer durable, weather-resistant garage doors and proactive maintenance plans to protect your investment. Our technicians are experienced in servicing garage doors in El Dorado Hills and committed to providing exceptional customer service.",
+        "localContext": "El Dorado Hills' affluent neighborhoods often have specific aesthetic requirements for garage doors. We offer a variety of high-end materials and styles to match the luxury homes in the area.",
+        "nearbyAreas": [
+          "Folsom",
+          "Cameron Park",
+          "Granite Bay"
+        ]
+      },
+      {
+        "city": "Lincoln",
+        "slug": "lincoln-ca",
+        "state": "CA",
+        "content": "Western Garage Doors CA extends its expert garage door services to the growing city of Lincoln. With its mix of established neighborhoods and rapidly expanding residential areas, Lincoln presents a variety of garage door needs. We offer comprehensive services, including new installations, repairs, and maintenance, tailored to the specific requirements of Lincoln homeowners.\n\nLincoln's hot summers and mild winters can affect garage door performance. We provide durable, weather-resistant doors and proactive maintenance to ensure smooth operation year-round. Our technicians are familiar with the common issues affecting garage doors in Lincoln and are dedicated to providing prompt and reliable service.",
+        "localContext": "Lincoln's diverse housing market requires a wide range of garage door styles and solutions. We offer customized options to fit any home and budget, from traditional to modern.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Newcastle",
+          "Wheatland"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Garage Door Repair",
+        "text": "Our garage door spring broke on a Saturday morning. Western Garage Doors CA came out within a couple of hours and had it fixed quickly. The technician was professional and explained everything clearly. Great service!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Garage Door Installation",
+        "text": "We recently had Western Garage Doors CA install a new garage door at our home in Land Park. The installation went smoothly, and the door looks great. There was a small issue with the opener, but they came back and fixed it promptly.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Garage Door Opener Repair",
+        "text": "My garage door opener stopped working unexpectedly. Western Garage Doors CA was able to diagnose and repair the problem quickly and efficiently. The technician was knowledgeable and courteous.",
+        "date": "2024-12-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Garage Door Maintenance",
+        "text": "We hired Western Garage Doors CA for annual garage door maintenance. They did a thorough job inspecting and lubricating all the moving parts. Our garage door is now operating much smoother and quieter.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Garage Door Spring Replacement",
+        "text": "The garage door spring broke on my single car garage. The tech arrived on time, was friendly, and replaced the spring efficiently. The price was fair, and I'm happy with the service.",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Custom Garage Door Installation",
+        "text": "From the initial consultation to the final installation, the team at Western Garage Doors CA was fantastic. They helped us design a custom garage door that perfectly complements our home's style. The quality of the workmanship is excellent.",
+        "date": "2024-09-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Western Garage Doors CA | Sacramento",
+        "description": "Sacramento's trusted garage door installer. Expert repairs, new installs, openers & more. Call +12799728985 for a free quote!"
+      },
+      "about": {
+        "title": "About Western Garage Doors CA",
+        "description": "Learn about Western Garage Doors CA, your local Sacramento garage door experts. Quality service, guaranteed satisfaction."
+      },
+      "services": {
+        "title": "Garage Door Services | Sacramento",
+        "description": "Comprehensive garage door services in Sacramento: installation, repair, openers, springs & more. Call Western Garage Doors CA!"
+      },
+      "contact": {
+        "title": "Contact Western Garage Doors CA",
+        "description": "Contact Western Garage Doors CA for garage door service in Sacramento. Call +12799728985 or request a free quote online."
+      },
+      "reviews": {
+        "title": "Western Garage Doors CA Reviews",
+        "description": "Read reviews from satisfied customers of Western Garage Doors CA in Sacramento. Reliable garage door service, guaranteed."
+      },
+      "service-areas": {
+        "title": "Garage Door Service Areas",
+        "description": "Western Garage Doors CA provides expert garage door service in Sacramento and surrounding areas. Find your city!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-installation": "/images/service-garage-door-installation.webp",
+      "garage-door-repair": "/images/service-garage-door-repair.webp",
+      "garage-door-opener-repair-installation": "/images/service-garage-door-opener-repair-installation.webp",
+      "garage-door-spring-replacement": "/images/service-garage-door-spring-replacement.webp",
+      "garage-door-cable-replacement": "/images/service-garage-door-cable-replacement.webp",
+      "garage-door-maintenance": "/images/service-garage-door-maintenance.webp",
+      "custom-garage-doors": "/images/service-custom-garage-doors.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-installation": {
+        "src": "/images/service-garage-door-installation.webp",
+        "srcset": "/images/service-garage-door-installation-400w.webp 400w, /images/service-garage-door-installation-800w.webp 800w, /images/service-garage-door-installation-1200w.webp 1200w, /images/service-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-repair": {
+        "src": "/images/service-garage-door-repair.webp",
+        "srcset": "/images/service-garage-door-repair-400w.webp 400w, /images/service-garage-door-repair-800w.webp 800w, /images/service-garage-door-repair-1200w.webp 1200w, /images/service-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair-installation": {
+        "src": "/images/service-garage-door-opener-repair-installation.webp",
+        "srcset": "/images/service-garage-door-opener-repair-installation-400w.webp 400w, /images/service-garage-door-opener-repair-installation-800w.webp 800w, /images/service-garage-door-opener-repair-installation-1200w.webp 1200w, /images/service-garage-door-opener-repair-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-spring-replacement": {
+        "src": "/images/service-garage-door-spring-replacement.webp",
+        "srcset": "/images/service-garage-door-spring-replacement-400w.webp 400w, /images/service-garage-door-spring-replacement-800w.webp 800w, /images/service-garage-door-spring-replacement-1200w.webp 1200w, /images/service-garage-door-spring-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-replacement": {
+        "src": "/images/service-garage-door-cable-replacement.webp",
+        "srcset": "/images/service-garage-door-cable-replacement-400w.webp 400w, /images/service-garage-door-cable-replacement-800w.webp 800w, /images/service-garage-door-cable-replacement-1200w.webp 1200w, /images/service-garage-door-cable-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-maintenance": {
+        "src": "/images/service-garage-door-maintenance.webp",
+        "srcset": "/images/service-garage-door-maintenance-400w.webp 400w, /images/service-garage-door-maintenance-800w.webp 800w, /images/service-garage-door-maintenance-1200w.webp 1200w, /images/service-garage-door-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-garage-doors": {
+        "src": "/images/service-custom-garage-doors.webp",
+        "srcset": "/images/service-custom-garage-doors-400w.webp 400w, /images/service-custom-garage-doors-800w.webp 800w, /images/service-custom-garage-doors-1200w.webp 1200w, /images/service-custom-garage-doors.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
